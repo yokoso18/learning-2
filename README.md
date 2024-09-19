@@ -1,1 +1,2 @@
-# 22222learning-2
+# learning-2
+trying to learn git n github
